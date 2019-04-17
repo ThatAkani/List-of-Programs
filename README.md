@@ -4,6 +4,8 @@ Here is my list of Programs i have collected through the years of using my Compu
 ## List
 
 ### Programs
+[Microsoft Office](https://www.office.com/) - Microsoft Office is a family of client software, server software, and services developed by Microsoft.
+
  [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - free and open-source web browser 
  
  [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone. 
@@ -17,6 +19,7 @@ Here is my list of Programs i have collected through the years of using my Compu
  [Spotify](https://www.spotify.com/) - Spotify is audio streaming platform.
  
 ### Utilities
+[GIMP](https://www.gimp.org/) - GIMP is a free and open-source raster graphics editor used for image retouching and editing.
 [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software.
 
 [Faststone Image Viewer](https://www.faststone.org/) - An image browser, converter and editor that supports all major graphic formats.
