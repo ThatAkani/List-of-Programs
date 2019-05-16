@@ -5,11 +5,9 @@ Here is my list of Programs i have collected through the years of using my Compu
 
 ### Programs
 
-[Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox is a free and open-source web browser
+[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - free and open-source web browser
 
-[Microsoft Office](https://www.office.com/) - Microsoft Office is a family of client software, server software, and services developed by Microsoft.
-
- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - free and open-source web browser 
+[Microsoft Office](https://www.office.com/) - a family of client software, server software, and services developed by Microsoft.
  
  [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone. 
 
