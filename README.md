@@ -21,6 +21,7 @@ Here is my list of Programs i have collected through the years of using my Compu
  
 ### Utilities
 [GIMP](https://www.gimp.org/) - GIMP is a free and open-source raster graphics editor used for image retouching and editing.
+
 [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software.
 
 [Faststone Image Viewer](https://www.faststone.org/) - An image browser, converter and editor that supports all major graphic formats.
