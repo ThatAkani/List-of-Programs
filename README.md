@@ -15,13 +15,28 @@ Here is my list of Programs i have collected through the years of using my Compu
 
  [foobar2000](https://www.foobar2000.org/) - advanced freeware audio player for the Windows platform. 
  
- [Media Player Classic](https://mpc-hc.org/) - extremely light-weight, open source media player for Windows®.
+ [MusicBee](https://getmusicbee.com/) -  freeware media player for playback and organization of audio files on Microsoft Windows.
  
- [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent.
+ [Media Player Classic](https://mpc-hc.org/) - extremely light-weight, open source media player for Windows®.
  
  [Spotify](https://www.spotify.com/) - audio streaming platform.
  
+ [Tidal](https://offer.tidal.com/download) - Hi-Fi audio streaming platform.
+ 
+ [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent.
+ 
+ [Thunderbird](https://www.thunderbird.net) - Free open-source email application with lots of features
+ 
+ [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app.
+
+ [Whatsapp for Desktop](https://www.whatsapp.com/download/) - Whatsapp for Desktop
+ 
+ [Steam](https://store.steampowered.com/about/) - Most popular gaming platform.
+ 
 ### Utilities
+
+[OBS](https://obsproject.com/) - Free and open source software for video recording and live streaming.
+
 [GIMP](https://www.gimp.org/) - free and open-source raster graphics editor used for image retouching and editing.
 
 [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software.
@@ -54,9 +69,13 @@ Here is my list of Programs i have collected through the years of using my Compu
 
 [Syncthing](https://syncthing.net/) - replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 
+[JDownloader](http://www.jdownloader.org/jdownloader2) - Free and open-source download manager.
+
 ### IT Apps
 
 [WinSCP](https://winscp.net/eng/download.php) - popular SFTP client and FTP client for Microsoft Windows.
+
+[FileZilla](https://filezilla-project.org/) - free software, cross-platform FTP application.
 
 [Nmap](https://nmap.org/) - free and open source (license) utility for network discovery and security auditing.
 
@@ -75,5 +94,9 @@ Here is my list of Programs i have collected through the years of using my Compu
 [WinDirStat](https://windirstat.net/) - disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.
 
 [Rufus](https://rufus.ie/) - small program for converting a normal flash drive into a complete bootable USB from which you can directly start in DOS.
+
+### Anti-Virus/Malware software
+
+# Soon
 
 
