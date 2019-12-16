@@ -7,30 +7,32 @@ Here is my list of Programs i have collected through the years of using my Compu
 
 [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - free and open-source web browser
 
+[Tor Browser](https://www.torproject.org/) -  free and open-source browser for enabling anonymous communication
+
 [Microsoft Office](https://www.office.com/) - a family of client software, server software, and services developed by Microsoft.
  
  [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone. 
 
- [foobar2000](https://www.foobar2000.org/) - foobar2000 is an advanced freeware audio player for the Windows platform. 
+ [foobar2000](https://www.foobar2000.org/) - advanced freeware audio player for the Windows platform. 
  
- [Media Player Classic](https://mpc-hc.org/) - MPC-HC is an extremely light-weight, open source media player for Windows®.
+ [Media Player Classic](https://mpc-hc.org/) - extremely light-weight, open source media player for Windows®.
  
  [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent.
  
- [Spotify](https://www.spotify.com/) - Spotify is audio streaming platform.
+ [Spotify](https://www.spotify.com/) - audio streaming platform.
  
 ### Utilities
-[GIMP](https://www.gimp.org/) - GIMP is a free and open-source raster graphics editor used for image retouching and editing.
+[GIMP](https://www.gimp.org/) - free and open-source raster graphics editor used for image retouching and editing.
 
 [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software.
 
 [Faststone Image Viewer](https://www.faststone.org/) - An image browser, converter and editor that supports all major graphic formats.
 
-[Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video
+[Handbrake](https://handbrake.fr/) - tool for converting video
 
-[KeePass](https://keepass.info/) - KeePass is a free open source password manager.
+[KeePass](https://keepass.info/) - free open source password manager.
 
-[OpenVPN](https://openvpn.net/) - OpenVPN provides flexible VPN solutions to secure your data communications,
+[OpenVPN](https://openvpn.net/) - provides flexible VPN solutions to secure your data communications,
 
 [Revo Uninstaller](https://www.revouninstaller.com/) - Windows Apps Manager to uninstall Windows Apps
 
@@ -42,36 +44,36 @@ Here is my list of Programs i have collected through the years of using my Compu
 
 [TeraCopy](https://www.codesector.com/teracopy) - Copy your files faster and more securely.
 
-[VeraCrypt](https://www.veracrypt.fr/en/Downloads.html) - VeraCrypt is a free open source disk encryption software.
+[VeraCrypt](https://www.veracrypt.fr/en/Downloads.html) - free open source disk encryption software.
 
 [W10Privacy](https://www.winprivacy.de/english-home/) - Windows 10 Privacy Manager
 
-[WinMerge](http://winmerge.org/?lang=en) - WinMerge is an Open Source differencing and merging tool for Windows.
+[WinMerge](http://winmerge.org/?lang=en) - Open Source differencing and merging tool for Windows.
 
 [TabletDriver](https://github.com/hawku/TabletDriver) - This is a low latency graphics tablet driver that is meant to be used with rhythm game osu!.
 
-[Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
+[Syncthing](https://syncthing.net/) - replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 
 ### IT Apps
 
-[WinSCP](https://winscp.net/eng/download.php) - WinSCP is a popular SFTP client and FTP client for Microsoft Windows.
+[WinSCP](https://winscp.net/eng/download.php) - popular SFTP client and FTP client for Microsoft Windows.
 
-[Nmap](https://nmap.org/) - Nmap is a free and open source (license) utility for network discovery and security auditing.
+[Nmap](https://nmap.org/) - free and open source (license) utility for network discovery and security auditing.
 
 [PingPlotter](https://www.pingplotter.com/) - PingPlotter graphs latency and packet loss between your computer and a target website or server.
 
-[Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages.
+[Notepad++](https://notepad-plus-plus.org/) - free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages.
 
-[VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. 
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads) - general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. 
 
-[PuTTY](https://www.putty.org/) - PuTTY is an SSH and telnet client for the Windows platform.
+[PuTTY](https://www.putty.org/) - SSH and telnet client for the Windows platform.
 
-[TeamViewer](https://www.teamviewer.com/en/) - TeamViewer™ is a remote desktop tool.
+[TeamViewer](https://www.teamviewer.com/en/) - remote desktop tool.
 
-[Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop.
+[Visual Studio Code](https://code.visualstudio.com/) - lightweight but powerful source code editor which runs on your desktop.
 
-[WinDirStat](https://windirstat.net/) - WinDirStat is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.
+[WinDirStat](https://windirstat.net/) - disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.
 
-[Rufus](https://rufus.ie/) - Rufus is a small program for converting a normal flash drive into a complete bootable USB from which you can directly start in DOS.
+[Rufus](https://rufus.ie/) - small program for converting a normal flash drive into a complete bootable USB from which you can directly start in DOS.
 
 
