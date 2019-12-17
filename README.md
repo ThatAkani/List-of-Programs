@@ -1,5 +1,5 @@
 # List-of-Programs
-Here is my list of Programs i have collected and recommend through the years of using my Computer. This list will mainly be used for the Purpose of listing the Programs i would install when doing a clean install of my Computer.
+Here is my list of programs i have collected and recommend through the years of using my computer. This list will mainly be used for the purpose of listing the programs i would install when doing a clean install of my computer.
 
 ## List
 
