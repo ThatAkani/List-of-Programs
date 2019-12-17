@@ -33,7 +33,7 @@ Here is my list of programs i have collected and recommend through the years of 
  
  [Steam](https://store.steampowered.com/about/) - Valve's gaming platform.
  
- [Uplay](https://uplay.ubisoft.com - Ubisoft's gaming platform.
+ [Uplay](https://uplay.ubisoft.com) - Ubisoft's gaming platform.
  
  [Origin](https://www.origin.com/deu/en-us/store/download) - EA's gaming platform.
  
