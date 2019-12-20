@@ -145,6 +145,10 @@ Here is my list of programs i have collected and recommend through the years of 
 
 [Bitdefender](https://www.bitdefender.com/) - anti-virus tool for free.
 
+[AdwCleaner](https://www.malwarebytes.com/adwcleaner/) - popular adware cleaner.
+
+[RKill](https://www.bleepingcomputer.com/download/rkill/) - Application to terminate known malware processes so that your normal security software can then run and clean your computer.
+
 
 
 
