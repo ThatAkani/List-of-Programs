@@ -95,6 +95,24 @@ Here is my list of programs i have collected and recommend through the years of 
 
 [Intelligent standby list cleaner](https://www.wagnardsoft.com/content/intelligent-standby-list-cleaner-v1000-released) - monitor and clear the memory standby list.
 
+[Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - Comprehensive auto-start manager
+
+[CUETools](http://cue.tools/wiki/CUETools_Download) - a suite of tools for lossless audio/CUE sheet format conversion and verification.
+
+[HWiNFO](https://www.hwinfo.com/) - Free system information, monitoring and diagnostic tool.
+
+[Keyboard Chattering Fix](https://graphicscardhub.com/how-to-fix-keyboard-chatter/) - Software solution to detect and fix keyboard chattering.
+
+[Mp3tag](https://www.mp3tag.de/en/download.html) - powerful and easy-to-use tool to edit metadata of audio files. 
+
+[Rufus](https://rufus.ie/) - utility that helps format and create bootable USB flash drives. 
+
+[TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - powerful free data recovery software.
+
+[TreeSize Free](https://www.jam-software.com/treesize_free) - Directory size scanner.
+
+
+
 ### IT Apps
 
 [WinSCP](https://winscp.net/eng/download.php) - popular SFTP client and FTP client for Microsoft Windows.
