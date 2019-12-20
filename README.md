@@ -39,6 +39,8 @@ Here is my list of programs i have collected and recommend through the years of 
  
  [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/desktop) - Blizzard's gaming platform.
  
+ [MullvadVPN](https://mullvad.net/en/) - Good VPN.
+ 
 ### Utilities
 
 [OBS](https://obsproject.com/) - Free and open source software for video recording and live streaming.
