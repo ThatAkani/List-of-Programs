@@ -83,13 +83,17 @@ Here is my list of programs i have collected and recommend through the years of 
 
 [Last.fm Scrobbler](https://www.last.fm/about/trackmymusic) - The Last.fm Desktop Scrobbler for Windows is app that updates your profile with what you’ve been playing on your computer.
 
-[Speedfan](http://www.almico.com/sfdownload.php) - Tool to read PC temps
+[Speedfan](http://www.almico.com/sfdownload.php) - Tool to read PC temps.
 
 [Search Everything](https://www.voidtools.com/) - tool that locates files and folders by name instantly.
 
 [MSI Afterburner](https://www.msi.com/page/afterburner) - The world’s most recognized and widely used graphics card overclocking utility (Download is at the bottom)
 
 [RivaTuner Statistic Server](https://www.guru3d.com/content-page/rivatuner.html) - RivaTuner is a complete powerful GPU tweaking environment.
+
+[Display driver uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - driver removal utility that can help you completely uninstall AMD/NVIDIA graphics card drivers.
+
+[Intelligent standby list cleaner](https://www.wagnardsoft.com/content/intelligent-standby-list-cleaner-v1000-released) - monitor and clear the memory standby list.
 
 ### IT Apps
 
