@@ -77,7 +77,7 @@ Here is my list of programs i have collected and recommend through the years of 
 
 [JDownloader](http://www.jdownloader.org/jdownloader2) - Free and open-source download manager.
 
-[DS4Windows](https://github.com/Jays2Kings/DS4Windows/releases) - DS4Windows is a portable program that allows you to get the best experience while using a DualShock 4 on your PC. By emulating a Xbox 360 controller, many more games are accessible.
+[DS4Windows](https://ryochan7.github.io/ds4windows-site/) - DS4Windows is a portable program that allows you to get the best experience while using a DualShock 4 on your PC. By emulating a Xbox 360 controller, many more games are accessible.
 
 [CL PS3 Eye Driver ](https://codelaboratories.com/downloads) - Driver for PS3 Eye cam. (The program costs so DM Me ;) )
 
@@ -86,8 +86,6 @@ Here is my list of programs i have collected and recommend through the years of 
 [Last.fm Scrobbler](https://www.last.fm/about/trackmymusic) - The Last.fm Desktop Scrobbler for Windows is app that updates your profile with what you’ve been playing on your computer.
 
 [Speedfan](http://www.almico.com/sfdownload.php) - Tool to read PC temps.
-
-[Search Everything](https://www.voidtools.com/) - tool that locates files and folders by name instantly.
 
 [MSI Afterburner](https://www.msi.com/page/afterburner) - The world’s most recognized and widely used graphics card overclocking utility (Download is at the bottom)
 
@@ -115,6 +113,8 @@ Here is my list of programs i have collected and recommend through the years of 
 
 [AutoHotkey](https://www.autohotkey.com/) - automation scripting language for Windows.
 
+[Notepad++](https://notepad-plus-plus.org/) - free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages.
+
 ### IT Apps
 
 [WinSCP](https://winscp.net/eng/download.php) - popular SFTP client and FTP client for Microsoft Windows.
@@ -125,8 +125,6 @@ Here is my list of programs i have collected and recommend through the years of 
 
 [PingPlotter](https://www.pingplotter.com/) - PingPlotter graphs latency and packet loss between your computer and a target website or server.
 
-[Notepad++](https://notepad-plus-plus.org/) - free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages.
-
 [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. 
 
 [PuTTY](https://www.putty.org/) - SSH and telnet client for the Windows platform.
@@ -134,10 +132,6 @@ Here is my list of programs i have collected and recommend through the years of 
 [TeamViewer](https://www.teamviewer.com/en/) - remote desktop tool.
 
 [Visual Studio Code](https://code.visualstudio.com/) - lightweight but powerful source code editor which runs on your desktop.
-
-[WinDirStat](https://windirstat.net/) - disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.
-
-[Rufus](https://rufus.ie/) - small program for converting a normal flash drive into a complete bootable USB from which you can directly start in DOS.
 
 ### Anti-Virus/Malware software
 
